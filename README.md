@@ -1,9 +1,21 @@
-Proyecto de estadistica - biblioteca
+# Proyectos de Estadística
 
-Comando de uso
+Conceptos básicos para ejecutar Python
 
-Para ejecutar se usa
-python3 {Nombre de archivo}
+## Ejecutar
 
-Para imprimir datos uso al funcion 
+Para ejecutar Python3 voy a usar
+```bash
+Python3 {NOMBRE DEL ARCHIVO}
+```
+Para imprimir los datos 
+```bash
 print()
+```
+
+
+
+## Bibliografia
+[frontEnd](https://www.makeareadme.com)
+
+[videos](https://youtube)
