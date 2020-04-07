@@ -12,7 +12,10 @@ Para imprimir los datos
 ```bash
 print()
 ```
-
+Para saber que tipo de variante es 
+```python
+type("variante")
+```
 
 
 ## Bibliografia
