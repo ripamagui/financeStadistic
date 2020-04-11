@@ -28,6 +28,19 @@ Para subir al servidor 'git push origin master' # Empuja el commit al master  qu
 Para actualizar localmente cambios 'git pull original master' # Trae los cambios que hicieron otros al servidor local
 
 ```
+### librerias 🖇️
+
+_Numpy es una libreria que me permitira trabajar con potentes estructuras de datos, implementar matrices y calculos para estas _
+
+_Vamos a descargarla de https://pypi.org/project/numpy/#files
+
+Para importarla en la consola copio el paquete de instalacion_
+
+Lo llamo en el archivo 
+
+```
+import numpy as np
+```
 
 
 ## Bibliografia
