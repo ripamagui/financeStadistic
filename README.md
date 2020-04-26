@@ -42,6 +42,18 @@ Lo llamo en el archivo
 import numpy as np
 ```
 
+_Pandas es una libreria que me permitira trabajar con analisis y manipulacion de datos de alto rendimiento DATA FRAME me permite titularizar los indices y trabajar con secuencias de tiempos_
+
+_Vamos a descargarla de https://pypi.org/project/pandas/
+
+Para importarla en la consola copio el paquete de instalacion_
+
+Lo llamo en el archivo 
+
+```
+import pandas as pd
+```
+
 
 ## Bibliografia
 [frontEnd](https://www.makeareadme.com)
